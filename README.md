@@ -43,16 +43,21 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksaurabh252&show_icons=true&theme=radical" alt="Saurabh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ksaurabh252&theme=radical" alt="GitHub Streak" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ksaurabh252&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ksaurabh252&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaurabh252&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaurabh252&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ksaurabh252&theme=nightowl&hide_border=true" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksaurabh252&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true" width="100%"/>
+</div>
 
 ---
 
