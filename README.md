@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
+<h3 align="center">A Full Stack Developer specializing in MERN & modern web technologies</h3>
 
-<!--
-**ksaurabh252/ksaurabh252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:ksaurabh252@gmail.com">📧 ksaurabh252@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/ksaurabh252/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/ksaurabh252" target="_blank">GitHub</a> •
+  <a href="https://ksaurabh252.github.io/saurabhKumar_Portfolio/" target="_blank">Portfolio Website</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- Next.js
+- Advanced TypeScript
+- Web performance optimization
+
+---
+
+### 💻 Tech Stack
+
+#### 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+#### 🛠 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+
+#### 🧩 Database & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksaurabh252&show_icons=true&theme=radical" alt="Saurabh's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ksaurabh252&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaurabh252&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+Visit my [Portfolio Website](https://ksaurabh252.github.io/saurabhKumar_Portfolio/) to explore detailed case studies of my projects!
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ksaurabh252/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ksaurabh252"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="mailto:ksaurabh252@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
